@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
 	<p>My sample node app</p>
+	<label>0</label>
 	<button>Click me</button>
       </div>
     );
